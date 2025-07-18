@@ -1,7 +1,22 @@
-.logo{
-    height: 20px;
-    width: 10px;
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    /* display: flex; */
 }
 .header{
-    background-color: rgb(72, 43, 0);
+    background-color: aquamarine;
+    /* display: flex;  */
+}
+.navbar{
+    display: flex;
+    height: 100px;
+}
+.logo{
+   
+}
+.navbar .list ul{
+    display: flex;
+    text-align: right;
 }
